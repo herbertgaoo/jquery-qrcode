@@ -1,7 +1,7 @@
 # jquery-qrcode
 
 ## 功能描述
-基于jquery.qrcode.min.js的生成二维码功能，在options中扩展了以下几个属性：
+基于jquery.qrcode.min.js的生成二维码功能，在options中扩展了以下几个属性：</br>
 border 边框（也就是留白）默认值为5px </br>
 imgSrc logo图片地址 默认值为空 “” </br>
 imgWidth logo图片宽度 默认值为0，如果没有imgSrc则失效 </br>
